@@ -4,7 +4,7 @@
  * Copyright 2008-2016 Patrick Wied <heatmapjs@patrick-wied.at> - All rights reserved.
  * Dual licensed under MIT and Beerware license
  *
- * :: 2022-11-10 21:56
+ * :: 2022-11-10 22:09
  */
 (function (name, context, factory) {
   // Supports UMD. AMD, CommonJS/Node.js and browser context
